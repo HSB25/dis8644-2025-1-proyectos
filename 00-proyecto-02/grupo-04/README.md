@@ -17,7 +17,8 @@ El proyecto consiste en un juguete para gato que funciona con un LDR que control
 
 ## Dibujos de diagramas del circuito (1 punto)
 
-Este es el diagrama a mano.
+Dibujo del Diagram a Mano
+
 
 ![Dibujo del diagrama a mano](./imagenes/diagrama-mano.jpg)
 
